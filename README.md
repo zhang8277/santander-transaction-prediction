@@ -9,4 +9,3 @@ KEY point 2:
 Naive Bayes for each model(it would be 1/200+ frequency feature)
 Definitely should have done this
 
-NN taking over gold medals in this regular ML track. lol
