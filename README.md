@@ -1,5 +1,5 @@
 # Santander-transaction-prediction
-Kaggle platform-silver medal 0.912
+Kaggle platform: silver medal 0.912
 
 EDA： 
 KEY point 1：
